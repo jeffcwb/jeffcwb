@@ -18,10 +18,10 @@
 ## Informações pessoais:
 
 - ⚡ Sobre mim: Sou curioso, gosto de aprender, de sair do nicho e explorar novas ideias;
-- 🔭 Atualmente estou trabalhando como motorista de APP;
-- 🌱 Atualmente estou aprendendo FullStack pelo Programa Desenvolve Boticário 2023;
+- 💼 Atualmente estou trabalhando como motorista de APP;
+- 📖 Atualmente estou aprendendo FullStack pelo Programa Desenvolve Boticário 2023;
 - 🔍 Estou procurando colaborar em projetos para iniciantes;
-- 🤔 Estou fazendo transição de carreira;
+- 🤓 Estou em transição de carreira;
 - 😄 Pronomes: Ele/Dele;
 - 🐈 Amo animais e tenho dois gatos machos;
 - 🌎 Sou de Curitiba/PR;
