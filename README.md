@@ -1,16 +1,42 @@
-### Hi there 👋
+# Olá, me chamo Jefferson! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**jeffcwb/jeffcwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**jeffcwb/jeffcwb** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Sobre mim: Sou curioso, gosto de aprender, de sair do nixo e explorar novas ideias;
+- 🔭 Atualmente estou trabalhando como motorista de APP;
+- 🌱 Atualmente estou aprendendo FullStack pelo Programa Desenvolve Boticário 2023;
+- 🔍 Estou procurando colaborar em projetos para iniciantes;
+- 🤔 Estou fazendo transição de carreira;
+- 😄 Pronomes: Ele/Dele;
+- 🐈 Amo animais e tenho dois gatos machos;
+- 🌎 Sou de Curitiba/PR;
+
+
+![image](https://github.com/jeffcwb/jeffersonbueno/assets/123979861/f82e788d-d64e-47f9-9a7c-aaab2f4e45d2)
+
+## Conhecimentos concluídos:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+                    
+         
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcwb&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffcwb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Contatos:
+  
+  
+
+<div>
+<a href="https://instagram.com/jeffcbueno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@jeeffbueno"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jeffbueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
