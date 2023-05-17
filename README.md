@@ -1,6 +1,22 @@
 # Olá, me chamo Jefferson! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcwb&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffcwb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
+
+## Conhecimentos concluídos:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  
+ 
+## Informações pessoais:
+
 - ⚡ Sobre mim: Sou curioso, gosto de aprender, de sair do nicho e explorar novas ideias;
 - 🔭 Atualmente estou trabalhando como motorista de APP;
 - 🌱 Atualmente estou aprendendo FullStack pelo Programa Desenvolve Boticário 2023;
@@ -13,18 +29,9 @@
 
 ![image](https://github.com/jeffcwb/jeffcwb/assets/123979861/a65ba7f6-ad53-4acf-bfea-122dc85c156c)
 
-
-## Conhecimentos concluídos:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
                     
          
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffcwb&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffcwb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ## Contatos: <a href="https://jeffersonbueno.vercel.app" rel="stylesheet">AQUI</a>
   
