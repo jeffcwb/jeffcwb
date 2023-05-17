@@ -1,7 +1,7 @@
 # Olá, me chamo Jefferson! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- ⚡ Sobre mim: Sou curioso, gosto de aprender, de sair do nixo e explorar novas ideias;
+- ⚡ Sobre mim: Sou curioso, gosto de aprender, de sair do nicho e explorar novas ideias;
 - 🔭 Atualmente estou trabalhando como motorista de APP;
 - 🌱 Atualmente estou aprendendo FullStack pelo Programa Desenvolve Boticário 2023;
 - 🔍 Estou procurando colaborar em projetos para iniciantes;
