@@ -14,7 +14,8 @@
 - 🌎 Sou de Curitiba/PR;
 
 
-![image](https://github.com/jeffcwb/jeffersonbueno/assets/123979861/f82e788d-d64e-47f9-9a7c-aaab2f4e45d2)
+![image](https://github.com/jeffcwb/jeffcwb/assets/123979861/a65ba7f6-ad53-4acf-bfea-122dc85c156c)
+
 
 ## Conhecimentos concluídos:
 
