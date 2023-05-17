@@ -1,9 +1,6 @@
 # Olá, me chamo Jefferson! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-
-**jeffcwb/jeffcwb** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
 - ⚡ Sobre mim: Sou curioso, gosto de aprender, de sair do nixo e explorar novas ideias;
 - 🔭 Atualmente estou trabalhando como motorista de APP;
 - 🌱 Atualmente estou aprendendo FullStack pelo Programa Desenvolve Boticário 2023;
